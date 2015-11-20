@@ -1,0 +1,1 @@
+- Change difficulty float if desired (higher=harder, lower=easier, 1=baseline)
